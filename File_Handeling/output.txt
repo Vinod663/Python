@@ -1,0 +1,5 @@
+From Sri Lanka.
+I learned CS.
+This line is appended to the file.
+I also learning SE
+I like to eat pizza

@@ -1,0 +1,10 @@
+I am Vinod Fernando. I love Programming.
+From Sri Lanka.
+I live in Moratuwa.
+I learned CS.
+I Study on IJSE.
+This line is appended to the file.
+Appending another line.
+I also learning SE
+I love cars.
+I like to eat pizza
